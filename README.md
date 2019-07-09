@@ -14,8 +14,10 @@
 # 혼자 공부하는 방법 
 - CLI가 익숙하지 않은 분은 아래 수업을 참고해주세요. <br>
 https://opentutorials.org/module/3747
-- https://seomal.org
-- git1 : https://opentutorials.org/module/3733
+- GIT 온라인 강의는 아래 주소에 있습니다. <br>
+git1 : https://opentutorials.org/module/3733 
+- 다른 수업들은 아래 지식 지도를 통해서 만나볼 수 있습니다. <br>
+https://seomal.org
 
 # 수업소식
 - 메일링 리스트 : http://codingeverybody-notify.appspot.com/
