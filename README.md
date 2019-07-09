@@ -12,6 +12,8 @@
 - github : https://github.com/
 
 # 혼자 공부하는 방법 
+- CLI가 익숙하지 않은 분은 아래 수업을 참고해주세요. <br>
+https://opentutorials.org/module/3747
 - https://seomal.org
 - git1 : https://opentutorials.org/module/3733
 
