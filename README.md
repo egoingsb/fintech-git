@@ -5,7 +5,7 @@
 # 설치해주세요.
 (동시에 설치하지 말고 순서대로 설치해주세요)
 - git : https://git-scm.com/ 
- (설치할 때 putty와 openssh를 선택하는 부분이 나오면 openssh를 선택해주세요)
+  <br>(설치할 때 putty와 openssh를 선택하는 부분이 나오면 openssh를 선택해주세요)
 - vscode : https://code.visualstudio.com/
 
 # 가입해주세요
