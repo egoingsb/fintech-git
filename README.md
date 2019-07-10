@@ -8,7 +8,9 @@
   <br>(설치할 때 putty와 openssh를 선택하는 부분이 나오면 openssh를 선택해주세요)
 - vscode : https://code.visualstudio.com/
 - p4merge : https://www.perforce.com/ko/perforce/product/10
-`
+
+## p4merge 설정법
+```
 mac
 git config --global mergetool.p4merge.path /Applications/p4merge.app/Contents/MacOS/p4merge
 git config --global merge.tool p4merge
@@ -17,10 +19,8 @@ git config --global mergetool.prompt false
 windows
 git config mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
 git config merge.tool p4merge
-`
-  mac : https://gist.github.com/samsalisbury/5436108
-  <br> window : https://gist.github.com/dgoguerra/8258007
- 
+```
+
 
 # 가입해주세요
 - github : https://github.com/
