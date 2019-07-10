@@ -7,6 +7,9 @@
 - git : https://git-scm.com/ 
   <br>(설치할 때 putty와 openssh를 선택하는 부분이 나오면 openssh를 선택해주세요)
 - vscode : https://code.visualstudio.com/
+- p4merge : https://www.perforce.com/ko/perforce/product/10
+  <br> mac : https://gist.github.com/samsalisbury/5436108
+  <br> window : https://gist.github.com/dgoguerra/8258007
 
 # 가입해주세요
 - github : https://github.com/
