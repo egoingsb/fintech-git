@@ -15,7 +15,8 @@ git config --global merge.tool p4merge
 git config --global mergetool.prompt false
 
 windows
-
+git config mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
+git config merge.tool p4merge
 `
   mac : https://gist.github.com/samsalisbury/5436108
   <br> window : https://gist.github.com/dgoguerra/8258007
