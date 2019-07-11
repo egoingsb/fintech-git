@@ -8,6 +8,7 @@
   <br>(설치할 때 putty와 openssh를 선택하는 부분이 나오면 openssh를 선택해주세요)
 - vscode : https://code.visualstudio.com/
   <br> git config --global core.editor "code --wait"
+- gistry : python3 설치 후 pip3 install gistory
 - p4merge : https://www.perforce.com/ko/perforce/product/10
 
 ## p4merge 설정법
